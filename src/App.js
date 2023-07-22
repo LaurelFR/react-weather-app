@@ -8,6 +8,7 @@ function App() {
         <h1>Weather App</h1>
       </header>
       <WeatherSearch />
+      <br />
       <footer>
         <a
           href="https://github.com/LaurelFR/react-weather-app"
