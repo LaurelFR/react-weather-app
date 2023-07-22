@@ -8,6 +8,16 @@ function App() {
         <h1>Weather App</h1>
       </header>
       <WeatherSearch />
+      <footer>
+        <a
+          href="https://github.com/LaurelFR/react-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source code
+        </a>{" "}
+        by <span>Laurel Rubel</span>
+      </footer>
     </div>
   );
 }
